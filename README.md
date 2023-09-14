@@ -21,9 +21,9 @@ Web Developer & Problem Solver
 
 * 🌍  I'm based in New Orleans
 * ✉️  You can contact me at [pnguyenduong@gmail.com](mailto:pnguyenduong@gmail.com)
-* 🧠  I'm currently learning Svelte, Sveltekit, TailwindCSS, SCSS
+* 🧠  I'm currently learning Design and Development Principles
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I'm also a Poker Dealer
+* ⚡  I'm also a Poker Tournament Director
 
 ### Skills
 
